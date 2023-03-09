@@ -1,40 +1,46 @@
 {
-
-    "manifest_version": 2,
-    "name": "Hacker News in Sidebar",
-    "description": "Displays Hacker News in the sidebar.",
-    "version": "1.1",
-    "applications": {
-        "gecko": {
-          "strict_min_version": "60.0"
-        }
-    },
-
-    "options_ui": {
-      "page": "options/options.html",
-      "browser_style": true
-    },
-
-    "sidebar_action": {
-        "default_icon": {
-            "48": "icons/48x48.png",
-            "96": "icons/96x96.png"
-          },
-        "default_title": "Hacker News",
-        "default_panel": "sidebar/panel.html"
-    },
-
-    "icons": {
-        "48": "icons/48x48.png",
-        "96": "icons/96x96.png"
-      },
-
-    "commands": {
-        "_execute_sidebar_action": {
-            "suggested_key": {
-                "default": "Alt+Shift+9"
-            },
-            "description": "Toggle the Hacker News sidebar."
-        }
+  "manifest_version": 2,
+  "name": "Hacker News in Sidebar",
+  "description": "Displays Hacker News in the sidebar.",
+  "version": "1.1",
+  "background": {
+    "scripts": [
+      "background.js"
+    ]
+  },
+  "applications": {
+    "gecko": {
+      "strict_min_version": "60.0"
     }
+  },
+  "options_ui": {
+    "page": "options/options.html",
+    "browser_style": true
+  },
+  "sidebar_action": {
+    "default_icon": {
+      "48": "icons/48x48.png",
+      "96": "icons/96x96.png"
+    },
+    "default_title": "Hacker News",
+    "default_panel": "sidebar/panel.html"
+  },
+  "icons": {
+    "48": "icons/48x48.png",
+    "96": "icons/96x96.png"
+  },
+  "commands": {
+    "_execute_sidebar_action": {
+      "suggested_key": {
+        "default": "Alt+Shift+9"
+      },
+      "description": "Toggle the Hacker News sidebar."
+    }
+  },
+  "browser_action": {
+    "default_icon": {
+      "16": "icons/16x16.png",
+      "32": "icons/32x32.png"
+    }
+  }
 }
