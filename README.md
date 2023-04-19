@@ -2,11 +2,11 @@
 
 # Hacker News in Sidebar
 
-A Firefox WebExtension to display Llama Life within the Firefox sidebar. This extension adds a new section to the sidebar which contains the Llama Life web app. It also adds a shortcut, and a button toggle within the toolbar.
+A Firefox WebExtension to display Hacker News within the Firefox sidebar. This extension adds a new section to the sidebar which contains the Hacker News website. It also adds a shortcut, and a button toggle within the toolbar.
 
 ## How to Use
 
-1. Toggle the sidebar by pressing Alt+Shift+9. This shortcut can be changed by going to Add-ons -> Reddit in Sidebar -> Options.
+1. Toggle the sidebar by pressing Alt+Shift+9. This shortcut can be changed by going to Add-ons -> Hacker News in Sidebar -> Options.
 2. If you prefer buttons over shortcuts, there is a toolbar button you can press to toggle the sidebar.
 
 ## How to Unlock Firefox Sidebar Width
