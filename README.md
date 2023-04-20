@@ -1,6 +1,12 @@
-![image](/icons/48x48.png)
+<h1 align=center><img src="/icons/48x48.png" /> Hacker News in Sidebar</h1>
 
-# Hacker News in Sidebar
+<p align=center>
+<img alt="Mozilla Add-on" src="https://img.shields.io/amo/v/%7B11004820-048d-488c-ad18-965ccf20fe45%7D?style=for-the-badge">
+<img src="https://img.shields.io/amo/rating/%7B11004820-048d-488c-ad18-965ccf20fe45%7D?style=for-the-badge" />
+<img src="https://img.shields.io/amo/dw/%7B11004820-048d-488c-ad18-965ccf20fe45%7D?style=for-the-badge" />
+<img src="https://img.shields.io/amo/users/%7B11004820-048d-488c-ad18-965ccf20fe45%7D?style=for-the-badge" />
+<img src="https://img.shields.io/github/license/datastring/firefox-telegram-in-sidebar?style=for-the-badge" />
+</p>
 
 A Firefox WebExtension to display Hacker News within the Firefox sidebar. This extension adds a new section to the sidebar which contains the Hacker News website. It also adds a shortcut, and a button toggle within the toolbar.
 
