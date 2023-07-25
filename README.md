@@ -1,12 +1,12 @@
-<h1 align=center><img src="/icons/48x48.png" /> Hacker News in Sidebar</h1>
-
-<p align=center>
-<img alt="Mozilla Add-on" src="https://img.shields.io/amo/v/%7B11004820-048d-488c-ad18-965ccf20fe45%7D?style=for-the-badge">
-<img src="https://img.shields.io/amo/rating/%7B11004820-048d-488c-ad18-965ccf20fe45%7D?style=for-the-badge" />
-<img src="https://img.shields.io/amo/dw/%7B11004820-048d-488c-ad18-965ccf20fe45%7D?style=for-the-badge" />
-<img src="https://img.shields.io/amo/users/%7B11004820-048d-488c-ad18-965ccf20fe45%7D?style=for-the-badge" />
-<img src="https://img.shields.io/github/license/datastring/firefox-telegram-in-sidebar?style=for-the-badge" />
+<p align=right>
+<img alt="Mozilla Add-on" src="https://img.shields.io/amo/v/%7B11004820-048d-488c-ad18-965ccf20fe45%7D">
+<img src="https://img.shields.io/amo/rating/%7B11004820-048d-488c-ad18-965ccf20fe45%7D" />
+<img src="https://img.shields.io/amo/dw/%7B11004820-048d-488c-ad18-965ccf20fe45%7D" />
+<img src="https://img.shields.io/amo/users/%7B11004820-048d-488c-ad18-965ccf20fe45%7D" />
+<img src="https://img.shields.io/github/license/semanticdata/firefox-hacker-news-in-sidebar" />
 </p>
+
+# ![icon](/icons/48x48.png) Hacker News in Sidebar
 
 A Firefox WebExtension to display Hacker News within the Firefox sidebar. This extension adds a new section to the sidebar which contains the Hacker News website. It also adds a shortcut, and a button toggle within the toolbar.
 
@@ -17,7 +17,7 @@ A Firefox WebExtension to display Hacker News within the Firefox sidebar. This e
 
 ## How to Unlock Firefox Sidebar Width
 
-The sidebar's width is *locked by default* in Firefox. Unfortunately, the sidebar is very restrictive and I can only do so much to enhance the functionality of this extension. I put together a step-by-step guide on how to unlock it over at [my blog](https://stressed.dev/unlock-max-width-of-firefoxs-sidebar/).
+The sidebar's width is *locked by default* in Firefox. Unfortunately, the sidebar is very restrictive and I can only do so much to enhance the functionality of this extension. I put together a step-by-step guide on how to unlock it over at [my website](https://forgetful.dev/guides/unlock-firefox-sidebar/).
 
 ## Disclaimer
 
