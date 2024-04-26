@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "Hacker News in Sidebar",
   "description": "Displays Hacker News in the sidebar.",
-  "version": "1.4.1",
+  "version": "1.4.2",
   "background": {
     "scripts": ["src/background.js"]
   },
