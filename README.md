@@ -1,4 +1,4 @@
-# ![logo](https://raw.githubusercontent.com/semanticdata/firefox-hacker-news-in-sidebar/main/icons/32x32.png) Hacker News in Sidebar
+# ![logo](https://raw.githubusercontent.com/semanticdata/firefox-hacker-news-in-sidebar/main/src/icons/32x32.png) Hacker News in Sidebar
 
 ![Mozilla Add-on](https://img.shields.io/amo/v/{11004820-048d-488c-ad18-965ccf20fe45})
 ![Add-on rating](https://img.shields.io/amo/rating/{11004820-048d-488c-ad18-965ccf20fe45})
